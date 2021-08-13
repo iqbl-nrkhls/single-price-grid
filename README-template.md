@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-using-htmlcss-xcL2JIZWr](https://www.frontendmentor.io/solutions/single-price-grid-using-htmlcss-xcL2JIZWr)
+- Live Site URL: [https://iqbl-nrkhls.github.io/single-price-grid/](https://iqbl-nrkhls.github.io/single-price-grid/)
 
 ## My process
 
